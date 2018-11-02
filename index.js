@@ -32,9 +32,9 @@ function dec(n)
   return n;
 }
 
-function makeInt(n, base)
+function makeInt(n, 10)
 {
-  parseInt("n", 10)
+  parseInt("n", 0x2328)
   return n;
 }
 
