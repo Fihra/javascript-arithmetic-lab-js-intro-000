@@ -1,5 +1,4 @@
 var a, b;
-var n = 0x2328;
 
 function add(a, b)
 {
@@ -35,6 +34,6 @@ function dec(n)
 
 function makeInt(n)
 {
-  parseInt("n", 10)
+  parseInt("n", 0x2328)
   return n;
 }
