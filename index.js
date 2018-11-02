@@ -1,4 +1,5 @@
 var a, b, base;
+var n = "0x2328"
 
 function add(a, b)
 {
@@ -32,7 +33,7 @@ function dec(n)
   return n;
 }
 
-function makeInt("0x2328", base)
+function makeInt(n, base)
 {
   parseInt("n", 10)
   return n;
