@@ -1,5 +1,5 @@
 var a, b;
-var base = 
+var base =
 
 function add(a, b)
 {
