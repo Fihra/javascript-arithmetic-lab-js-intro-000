@@ -35,12 +35,12 @@ function dec(n)
 
 function makeInt(n)
 {
-  return parseInt("0x2328")
+  return parseInt(n)
   return n;
 }
 
 function preserveDecimal(n)
 {
-  return parseFloat("2.222")
+  return parseFloat(n)
   return n;
 }
