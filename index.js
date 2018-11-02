@@ -35,7 +35,6 @@ function dec(n)
 
 function makeInt(n)
 {
-  var n = "0x2328"
   parseInt("n", 10)
   return n;
 }
