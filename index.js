@@ -34,6 +34,6 @@ function dec(n)
 
 function makeInt(n)
 {
-  parseInt("Ox2328", 10)
+  parseInt("0", 10)
   return n;
 }
