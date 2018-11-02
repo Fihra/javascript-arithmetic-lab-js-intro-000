@@ -32,7 +32,7 @@ function dec(n)
   return n;
 }
 
-function makeInt(n, 0x2328)
+function makeInt(n, base)
 {
   parseInt("n", 10)
   return n;
